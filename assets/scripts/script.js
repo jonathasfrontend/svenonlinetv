@@ -9,9 +9,8 @@ fetch('https://apitvonline.herokuapp.com/clients').then(response=> response.json
 
             filmesseriescontent.innerHTML += `
                 <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
+                <a href="${filme.link}"><img src="${filme.image}" alt="Sven tv online"></a>
                 <div class="titles-card">
-                    <a href="${filme.link}">Assistir</a>
                     <h1>${filme.title}</h1>
                 </div>
                 </div>
@@ -24,9 +23,8 @@ fetch('https://apitvonline.herokuapp.com/clients').then(response=> response.json
 
             desenhosanimados.innerHTML += `
                 <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
+                <a href="${filme.link}"<img src="${filme.image}" alt="Sven tv online"></a>
                 <div class="titles-card">
-                    <a href="${filme.link}">Assistir</a>
                     <h1>${filme.title}</h1>
                 </div>
                 </div>
@@ -38,9 +36,8 @@ fetch('https://apitvonline.herokuapp.com/clients').then(response=> response.json
 
             variedades.innerHTML += `
                 <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
+                <a href="${filme.link}"><img src="${filme.image}" alt="Sven tv online"></a>
                 <div class="titles-card">
-                    <a href="${filme.link}">Assistir</a>
                     <h1>${filme.title}</h1>
                 </div>
                 </div>
