@@ -16,46 +16,47 @@ fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05
 })
 
 fetch('https://apitvonline.herokuapp.com/clients').then(response => response.json()).then(data=>{
+data.forEach(element => {
+    element.filmesseries.map(filme =>  {
 
-    data.forEach(element => {
-        element.filmesseries.map(filme =>  {
+        filmesseriescontent.innerHTML += `
+            <div class="card">
+            <img src="${filme.image}" alt="Sven tv online">
+            <div class="titles-card">
+                <a href="${filme.link}"><h1>${filme.title}</h1></a>
+            </div>
+            </div>
+            `;
+    })
 
-            filmesseriescontent.innerHTML += `
-                <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
-                <div class="titles-card">
+})
+
+data.forEach(element => {
+    element.desenhosanimados.map(filme => {
+
+        desenhosanimados.innerHTML += `
+            <div class="card">
+            <img src="${filme.image}" alt="Sven tv online">
+            <div class="titles-card">
+                <a href="${filme.link}"><h1>${filme.title}</h1></a>
+            </div>
+            </div>
+            `;
+    })
+})
+
+data.forEach(element => {
+    element.variedades.map(filme => {
+
+        variedades.innerHTML += `
+            <div class="card">
+            <img src="${filme.image}" alt="Sven tv online">
+            <div class="titles-card">
                     <a href="${filme.link}"><h1>${filme.title}</h1></a>
-                </div>
-                </div>
-                `;
-        })
+            </div>
+            </div>
+            `;
     })
-
-    data.forEach(element => {
-        element.desenhosanimados.map(filme => {
-
-            desenhosanimados.innerHTML += `
-                <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
-                <div class="titles-card">
-                    <a href="${filme.link}"><h1>${filme.title}</h1></a>
-                </div>
-                </div>
-                `;
-        })
-    })
-    data.forEach(element => {
-        element.variedades.map(filme => {
-
-            variedades.innerHTML += `
-                <div class="card">
-                <img src="${filme.image}" alt="Sven tv online">
-                <div class="titles-card">
-                        <a href="${filme.link}"><h1>${filme.title}</h1></a>
-                </div>
-                </div>
-                `;
-        })
-    })
+})
     
 })
