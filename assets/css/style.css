@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    /*  */
 }
 
 header{
@@ -18,16 +20,12 @@ header{
     justify-content: space-between;
     z-index: 1000;
 }
-header .logo h1{
-    font-size: 2em;
-    font-weight: 800;
-    color: #ffffff;
+header .logo{
+    width: 150px;
 }
-header .logo h1 strong{
-    font-weight: 900;
-    background: -webkit-linear-gradient(#2D2776 10% ,#00f953 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+header .logo img{
+    width: 100%;
+    height: 100%;
 }
 header .user{
     display: flex;
@@ -101,6 +99,7 @@ header .user form button{
     z-index: 300;
 }
 .main .banner .title-banner .img-poster{
+    /* width: 25%; */
     width: 300px;
     height: 500px;
     border: 5px solid #ffffff;
@@ -112,9 +111,10 @@ header .user form button{
 }
 .main .banner .title-banner .texts h1{
     width: 400px;
-    font-size: 5em;
-    line-height: 0.9em;
+    font-size: 4em;
+    line-height: 1em;
     color: #ffffff;
+    font-family: 'Oswald', sans-serif;
 }
 .main .banner .title-banner .texts p{
     width: 400px;
