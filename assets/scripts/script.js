@@ -3,7 +3,9 @@ const desenhosanimados = document.querySelector('.desenhos-animados');
 const variedades = document.querySelector('.variedades');
 const banner = document.getElementById('banner');
 
-fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05dabebf9604&language=en-US&page=2').then(response=> response.json()).then(data=>{
+fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05dabebf9604&language=en-US&page=2')
+.then(response=> response.json())
+.then(data=>{
     data.results.map((i,j)=>{      
         if(j > 18)
         return;
@@ -26,7 +28,9 @@ fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05
     })
 })
 
-fetch('https://tvonline-delta.vercel.app/').then(response => response.json()).then(data=>{
+fetch('https://tvonline-delta.vercel.app/')
+.then(response => response.json())
+.then(data=>{
 data.forEach(element => {
     element.filmesseries.map(filme =>  {
 
