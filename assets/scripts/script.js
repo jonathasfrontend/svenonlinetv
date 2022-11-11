@@ -26,7 +26,7 @@ fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05
     })
 })
 
-fetch('https://apitvonline.herokuapp.com/clients').then(response => response.json()).then(data=>{
+fetch('https://tvonline-delta.vercel.app/').then(response => response.json()).then(data=>{
 data.forEach(element => {
     element.filmesseries.map(filme =>  {
 
