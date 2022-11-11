@@ -20,11 +20,11 @@ header{
 }
 header .logo h1{
     font-size: 2em;
-    font-weight: 300;
+    font-weight: 800;
     color: #ffffff;
 }
 header .logo h1 strong{
-    font-weight: 800;
+    font-weight: 900;
     background: -webkit-linear-gradient(#2D2776 10% ,#00f953 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -73,14 +73,58 @@ header .user form button{
 }
 .main .banner{
     position: relative;
-    /* margin-top: 5em; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 100%;
     height: 600px;
+    z-index: 100;
 }
 .main .banner img{
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+.main .banner .gradient{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(#0000008c 10%, #00000000 50%, #000000aa 100%);
+}
+.main .banner .title-banner{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 400px;
+    padding: 4em 5%;
+    z-index: 300;
+}
+.main .banner .title-banner .img-poster{
+    width: 300px;
+    height: 500px;
+    border: 5px solid #ffffff;
+}
+.main .banner .title-banner .img-poster img{
+    width: 100%;
+    height: 100%;
+    z-index: 300;
+}
+.main .banner .title-banner .texts h1{
+    width: 400px;
+    font-size: 6em;
+    line-height: 1em;
+    color: #ffffff;
+}
+.main .banner .title-banner .texts p{
+    width: 400px;
+    font-size: 0.99em;
+    line-height: 1.2em;
+    color: #ffffff;
+    text-align: justify;
 }
 .main .gradient{
     position: absolute;

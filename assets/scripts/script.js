@@ -10,6 +10,17 @@ fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05
         if(j == 0){
             banner.innerHTML+=`
             <img src="https://image.tmdb.org/t/p/original`+i.backdrop_path+`" alt="">
+            
+            <div class="title-banner">
+                <div class="texts">
+                    <h1>${i.title }</h1>
+                    <p>${i.overview}</p>
+                </div>
+
+                <div class="img-poster">
+                    <img src="https://image.tmdb.org/t/p/original`+i.poster_path+`" alt="">
+                </div>
+            </div>
             `;
         }
     })
