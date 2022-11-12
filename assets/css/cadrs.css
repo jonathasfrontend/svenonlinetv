@@ -3,6 +3,7 @@
     width: 100%;
     height: 230px;
     background-color: #291196;
+    box-shadow: -10px 10px 10px #2911966f;
     border-radius: 10px;
     padding: 20px;
     overflow: hidden;
