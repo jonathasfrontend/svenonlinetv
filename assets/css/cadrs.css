@@ -34,6 +34,7 @@
     color: #ffffff;
 }
 .card .titles-card a{
+    transition: 0.32;
     text-decoration: none;
     cursor: pointer;
     margin: 10px 0;
@@ -46,6 +47,9 @@
     align-items: center;
     justify-content: center;
     z-index: 5;
+}
+.card .titles-card a:hover{
+    background-color: #ffffff41;
 }
 .card .titles-card a h1{
     font-size: 15px;
