@@ -36,9 +36,9 @@ data.forEach(element => {
 
         filmesseriescontent.innerHTML += `
             <div class="card">
-            <img src="${filme.image}" alt="Sven tv online">
+            <img src="${filme.image}" alt="Sven tv online" class="img-banner-play">
             <div class="titles-card">
-                <a href="${filme.link}"><h1>${filme.title}</h1></a>
+                <a href="${filme.link}"><img src="./assets/img/tv.svg" alt=""><h1>${filme.title}</h1></a>
             </div>
             </div>
             `;
@@ -51,9 +51,9 @@ data.forEach(element => {
 
         desenhosanimados.innerHTML += `
             <div class="card">
-            <img src="${filme.image}" alt="Sven tv online">
+            <img src="${filme.image}" alt="Sven tv online" class="img-banner-play">
             <div class="titles-card">
-                <a href="${filme.link}"><h1>${filme.title}</h1></a>
+                <a href="${filme.link}"><img src="./assets/img/tv.svg" alt=""><h1>${filme.title}</h1></a>
             </div>
             </div>
             `;
@@ -65,9 +65,9 @@ data.forEach(element => {
 
         variedades.innerHTML += `
             <div class="card">
-            <img src="${filme.image}" alt="Sven tv online">
+            <img src="${filme.image}" alt="Sven tv online" class="img-banner-play">
             <div class="titles-card">
-                    <a href="${filme.link}"><h1>${filme.title}</h1></a>
+                    <a href="${filme.link}"><img src="./assets/img/tv.svg" alt=""><h1>${filme.title}</h1></a>
             </div>
             </div>
             `;
