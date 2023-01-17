@@ -27,7 +27,7 @@
      width="1080mm"
      height="300mm"
      inkscape:zoom="0.20431713"
-     inkscape:cx="2040.9449"
+     inkscape:cx="2456.9648"
      inkscape:cy="161.51362"
      inkscape:window-width="1366"
      inkscape:window-height="697"
@@ -40,26 +40,25 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient24262">
+       id="linearGradient3765">
       <stop
-         style="stop-color:#2d2776;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
-         id="stop24258" />
+         id="stop3761" />
       <stop
-         style="stop-color:#00f953;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1"
          offset="1"
-         id="stop24260" />
+         id="stop3763" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient24262"
-       id="linearGradient20006"
-       x1="808.86102"
-       y1="5.698854"
-       x2="806.84589"
-       y2="237.99721"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(550.91939,4.5437412)" />
+       xlink:href="#linearGradient3765"
+       id="linearGradient3767"
+       x1="850.70392"
+       y1="234.12781"
+       x2="848.30914"
+       y2="21.753708"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Camada 1"
@@ -76,68 +75,64 @@
          style="stroke-width:0.264583"
          x="-236.0451"
          y="194.83087" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient3767);fill-opacity:1;stroke:none;stroke-width:6.88239"
+       x="726.06927"
+       y="234.16533"
+       id="text6621"><tspan
+         sodipodi:role="line"
+         id="tspan6619"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient3767);stroke-width:6.88239;fill-opacity:1"
+         x="726.06927"
+         y="234.16533">Tv</tspan></text>
     <g
-       id="g48116"
-       transform="translate(31.366402,-1.040965)">
+       id="g48103"
+       transform="translate(-440.21801,-530.9111)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient20006);fill-opacity:1;stroke:none;stroke-width:6.88239"
-         x="694.70288"
-         y="235.2063"
-         id="text6621"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+         x="534.73541"
+         y="765.07642"
+         id="text22985"><tspan
            sodipodi:role="line"
-           id="tspan6619"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient20006);stroke-width:6.88239"
-           x="694.70288"
-           y="235.2063">Tv</tspan></text>
-      <g
-         id="g48103"
-         transform="translate(-471.58441,-529.87013)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+           id="tspan22983"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
            x="534.73541"
-           y="765.07642"
-           id="text22985"><tspan
-             sodipodi:role="line"
-             id="tspan22983"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-             x="534.73541"
-             y="765.07642">S</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+           y="765.07642">S</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+         x="702.25195"
+         y="769.64679"
+         id="text43017"><tspan
+           sodipodi:role="line"
+           id="tspan43015"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
            x="702.25195"
-           y="769.64679"
-           id="text43017"><tspan
-             sodipodi:role="line"
-             id="tspan43015"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-             x="702.25195"
-             y="769.64679">v</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+           y="769.64679">v</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+         x="848.46259"
+         y="766.42065"
+         id="text43021"><tspan
+           sodipodi:role="line"
+           id="tspan43019"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
            x="848.46259"
-           y="766.42065"
-           id="text43021"><tspan
-             sodipodi:role="line"
-             id="tspan43019"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-             x="848.46259"
-             y="766.42065">e</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+           y="766.42065">e</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+         x="1002.9401"
+         y="769.64679"
+         id="text45161"><tspan
+           sodipodi:role="line"
+           id="tspan45159"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
            x="1002.9401"
-           y="769.64679"
-           id="text45161"><tspan
-             sodipodi:role="line"
-             id="tspan45159"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-             x="1002.9401"
-             y="769.64679">n</tspan></text>
-      </g>
+           y="769.64679">n</tspan></text>
     </g>
   </g>
 </svg>
