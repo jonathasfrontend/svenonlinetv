@@ -27,8 +27,8 @@
      width="32mm"
      height="300mm"
      inkscape:zoom="4.0348958"
-     inkscape:cx="60.348522"
-     inkscape:cy="60.472441"
+     inkscape:cx="60.224604"
+     inkscape:cy="61.959469"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -40,26 +40,25 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient24262">
+       id="linearGradient2905">
       <stop
-         style="stop-color:#2d2776;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
-         id="stop24258" />
+         id="stop2901" />
       <stop
-         style="stop-color:#00f953;stop-opacity:1"
+         style="stop-color:#48acd6;stop-opacity:1"
          offset="1"
-         id="stop24260" />
+         id="stop2903" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient24262"
-       id="linearGradient20006"
-       x1="808.86102"
-       y1="5.698854"
-       x2="806.84589"
-       y2="237.99721"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.12407699,0,0,0.12407699,-17.682152,0.82493384)" />
+       xlink:href="#linearGradient2905"
+       id="linearGradient2907"
+       x1="15.768073"
+       y1="29.517242"
+       x2="15.648551"
+       y2="8.4024868"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Camada 1"
@@ -78,13 +77,13 @@
          y="194.83087" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.1579px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient20006);fill-opacity:1;stroke:none;stroke-width:0.853946"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.1579px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient2907);fill-opacity:1;stroke:none;stroke-width:0.853946"
        x="0.1580932"
        y="29.444849"
        id="text6621"><tspan
          sodipodi:role="line"
          id="tspan6619"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient20006);stroke-width:0.853946"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient2907);stroke-width:0.853946;fill-opacity:1"
          x="0.1580932"
          y="29.444849">Tv</tspan></text>
   </g>

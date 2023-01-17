@@ -26,9 +26,9 @@
      showgrid="false"
      width="1080mm"
      height="300mm"
-     inkscape:zoom="0.20431713"
-     inkscape:cx="2456.9648"
-     inkscape:cy="161.51362"
+     inkscape:zoom="0.18226852"
+     inkscape:cx="2040.9449"
+     inkscape:cy="471.83134"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -46,7 +46,7 @@
          offset="0"
          id="stop3761" />
       <stop
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#48acd6;stop-opacity:1"
          offset="1"
          id="stop3763" />
     </linearGradient>
@@ -56,9 +56,10 @@
        id="linearGradient3767"
        x1="850.70392"
        y1="234.12781"
-       x2="848.30914"
-       y2="21.753708"
-       gradientUnits="userSpaceOnUse" />
+       x2="849.60413"
+       y2="65.48175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,4.5703629)" />
   </defs>
   <g
      inkscape:label="Camada 1"
@@ -79,60 +80,56 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient3767);fill-opacity:1;stroke:none;stroke-width:6.88239"
        x="726.06927"
-       y="234.16533"
+       y="238.73569"
        id="text6621"><tspan
          sodipodi:role="line"
          id="tspan6619"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient3767);stroke-width:6.88239;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:url(#linearGradient3767);fill-opacity:1;stroke-width:6.88239"
          x="726.06927"
-         y="234.16533">Tv</tspan></text>
-    <g
-       id="g48103"
-       transform="translate(-440.21801,-530.9111)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
-         x="534.73541"
-         y="765.07642"
-         id="text22985"><tspan
-           sodipodi:role="line"
-           id="tspan22983"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-           x="534.73541"
-           y="765.07642">S</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
-         x="702.25195"
-         y="769.64679"
-         id="text43017"><tspan
-           sodipodi:role="line"
-           id="tspan43015"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-           x="702.25195"
-           y="769.64679">v</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
-         x="848.46259"
-         y="766.42065"
-         id="text43021"><tspan
-           sodipodi:role="line"
-           id="tspan43019"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-           x="848.46259"
-           y="766.42065">e</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
-         x="1002.9401"
-         y="769.64679"
-         id="text45161"><tspan
-           sodipodi:role="line"
-           id="tspan45159"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
-           x="1002.9401"
-           y="769.64679">n</tspan></text>
-    </g>
+         y="238.73569">Tv</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+       x="94.517403"
+       y="234.16534"
+       id="text22985"><tspan
+         sodipodi:role="line"
+         id="tspan22983"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
+         x="94.517403"
+         y="234.16534">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+       x="262.03394"
+       y="238.73569"
+       id="text43017"><tspan
+         sodipodi:role="line"
+         id="tspan43015"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
+         x="262.03394"
+         y="238.73569">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+       x="408.24457"
+       y="235.50957"
+       id="text43021"><tspan
+         sodipodi:role="line"
+         id="tspan43019"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
+         x="408.24457"
+         y="235.50957">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.296px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#2d2776;fill-opacity:1;stroke:none;stroke-width:6.88239"
+       x="562.72211"
+       y="238.73569"
+       id="text45161"><tspan
+         sodipodi:role="line"
+         id="tspan45159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Bold';fill:#ffffff;fill-opacity:1;stroke-width:6.88239"
+         x="562.72211"
+         y="238.73569">n</tspan></text>
   </g>
 </svg>
