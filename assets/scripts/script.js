@@ -4,7 +4,7 @@ const variedades = document.querySelector('.variedades');
 const esports = document.querySelector('.esports');
 const banner = document.getElementById('banner');
 
-fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05dabebf9604&language=pt-BR&page=1')
+fetch('https://api.themoviedb.org/3/movie/popular?api_key=506fadb0256c13349acc05dabebf9604&language=pt-BR&page=2')
 .then(response=> response.json())
 .then(data=>{
     data.results.map((i,j)=>{      
@@ -49,7 +49,6 @@ data.forEach(element => {
 
 data.forEach(element => {
     element.desenhosanimados.map(filme => {
-
         desenhosanimados.innerHTML += `
             <div class="card">
             <img src="${filme.image}" alt="Sven tv online" class="img-banner-play">
